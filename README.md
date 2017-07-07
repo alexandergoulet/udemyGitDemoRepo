@@ -1,4 +1,4 @@
-# gitTraining Project READMA
+# Udemy Git Training Project README
 
 this is a simple readme.md file
 
